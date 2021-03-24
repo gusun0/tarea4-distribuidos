@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.lang.*;
 
-class TokenFinal
+class Token
 {
 	static DataInputStream entrada;
 	static DataOutputStream salida;
